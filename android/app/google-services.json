@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609578672669",
+    "firebase_url": "https://babyname-17c13.firebaseio.com",
+    "project_id": "babyname-17c13",
+    "storage_bucket": "babyname-17c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609578672669:android:76dba55cf6dc7ab7029cf4",
+        "android_client_info": {
+          "package_name": "com.example.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609578672669-dqncpa7nmvdua4rfda3qqfui23l8pnk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5sU5F6uihWRVMxYuV_skTJUoeeQtaaqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609578672669-dqncpa7nmvdua4rfda3qqfui23l8pnk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "609578672669-3l2p5o2um9ckqpooh6aab70d7d0scjcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.cocoapods.absl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
